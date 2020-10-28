@@ -128,7 +128,7 @@ client.on('ready', () => {
 
 
   
-client.login('');
+client.login('your discord bot token');
 
 
  
