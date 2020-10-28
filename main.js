@@ -128,7 +128,7 @@ client.on('ready', () => {
 
 
   
-client.login('NzcwNTE2ODgyMTU5Njk3OTMw.X5etxA.wKQZyqXGpfg3Yz3-N0bKvAx_Fe8');
+client.login('');
 
 
  
